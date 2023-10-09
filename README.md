@@ -4,8 +4,6 @@
 
 Horiseon is a marketing agency website that offers services in Search Engine Optimization, Online Reputation Management, and Social Media Marketing. This website has been refactored to improve accessibility and code quality.
 
-![Horiseon Website Screenshot](./assets/images/screenshot.png)
-
 ## Table of Contents
 
 - [Installation](#installation)
@@ -15,7 +13,7 @@ Horiseon is a marketing agency website that offers services in Search Engine Opt
 
 ## Installation
 
-To access the Horiseon website, simply click on the following link: [Horiseon Social Solution Services](https://your-website-url.com)
+To access the Horiseon website, simply click on the following link: [Horiseon Social Solution Services](https://jcovi.github.io/horiseon-dmm/)
 
 ## Usage
 
